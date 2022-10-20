@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string-array name="lstvilles">
+        <item>Tanger</item>
+        <item>Tetouan</item>
+        <item>Fes</item>
+        <item>Meknes</item>
+        <item>Rabat</item>
+    </string-array>
+</resources>
